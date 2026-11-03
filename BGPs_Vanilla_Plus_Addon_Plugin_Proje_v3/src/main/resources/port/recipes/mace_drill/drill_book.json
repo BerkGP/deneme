@@ -1,0 +1,120 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NEP",
+    "ASA",
+    "PEN"
+  ],
+  "key": {
+    "N": "minecraft:netherite_ingot",
+    "E": "minecraft:echo_shard",
+    "P": "minecraft:diamond_pickaxe",
+    "A": "minecraft:amethyst_shard",
+    "S": "minecraft:nether_star"
+  },
+  "result": {
+    "id": "minecraft:knowledge_book",
+    "count": 1,
+    "components": {
+      "minecraft:item_model": "minecraft:enchanted_book",
+      "minecraft:item_name": {
+        "translate": "item.minecraft.enchanted_book"
+      },
+      "minecraft:rarity": "uncommon",
+      "minecraft:lore": [
+        {
+          "text": "",
+          "italic": false,
+          "extra": [
+            {
+              "text": "ʙüʏü isᴍi: ",
+              "color": "gray"
+            },
+            {
+              "text": "ᴇᴋsᴋᴀᴠᴀᴛöʀ",
+              "color": "#FF7F00",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "text": "",
+          "italic": false,
+          "extra": [
+            {
+              "text": "ʙüʏü ᴛüʀü: ",
+              "color": "gray"
+            },
+            {
+              "text": "ᴘ",
+              "color": "#E5090D",
+              "bold": true,
+              "underlined": true
+            },
+            {
+              "text": "ᴀ",
+              "color": "#D80E13",
+              "bold": true,
+              "underlined": true
+            },
+            {
+              "text": "s",
+              "color": "#CB1219",
+              "bold": true,
+              "underlined": true
+            },
+            {
+              "text": "s",
+              "color": "#D80E13",
+              "bold": true,
+              "underlined": true
+            },
+            {
+              "text": "ɪ",
+              "color": "#E5090D",
+              "bold": true,
+              "underlined": true
+            },
+            {
+              "text": "ᴠ",
+              "color": "#F20506",
+              "bold": true,
+              "underlined": true
+            },
+            {
+              "text": "ᴇ",
+              "color": "#FF0000",
+              "bold": true,
+              "underlined": true
+            }
+          ]
+        },
+        {
+          "text": "",
+          "italic": false,
+          "extra": [
+            {
+              "text": "ᴋᴜʟʟᴀɴɪʟᴀʙiʟiʀ ᴇşʏᴀʟᴀʀ: ",
+              "color": "gray"
+            },
+            {
+              "text": "ɢüʀᴢ",
+              "color": "yellow"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "italic": false,
+          "extra": [
+            {
+              "text": "3x3 ʙiʀ ᴀʟᴀɴɪ ᴋᴏʟᴀʏ ʙiʀ şᴇᴋiʟᴅᴇ ᴋɪʀᴍᴀɴɪ sᴀğʟᴀʀ!",
+              "color": "gray"
+            }
+          ]
+        }
+      ],
+      "minecraft:enchantment_glint_override": true
+    }
+  }
+}

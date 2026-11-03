@@ -1,0 +1,22 @@
+{
+ "use_hp_empty": {
+  "text": "ᴇᴋsᴋᴀᴠᴀᴛöʀ ᴄᴀɴɪ ᴛüᴋᴇɴᴅi!",
+  "color": "red"
+ },
+ "refill": {
+  "text": "ᴇᴋsᴋᴀᴠᴀᴛöʀ ᴄᴀɴɪ ʏᴇɴiʟᴇɴᴅi!",
+  "color": "green"
+ },
+ "strip": {
+  "text": "ʙᴜ ʙüʏü sᴀᴅᴇᴄᴇ ᴇᴋsᴋᴀᴠᴀᴛöʀ ɢüʀᴢ'ᴇ ʙᴀsɪʟᴀʙiʟiʀ!",
+  "color": "red"
+ },
+ "elytra_off": {
+  "text": "ᴇʟiᴛʀᴀ ᴋɪʀɪʟᴅɪ! ɢöğüsʟüᴋ ʏᴇʀiɴᴅᴇ ᴋᴀʟᴅɪ, ᴋɪʀɪᴋ ᴇʟiᴛʀᴀ ᴇɴᴠᴀɴᴛᴇʀiɴᴇ ɢᴇʟᴅi.",
+  "color": "red"
+ },
+ "break_finish": {
+  "text": "ɢöğüsʟüᴋ ᴋɪʀɪʟᴅɪ! ᴇʟiᴛʀᴀ ɢöğüs sʟᴏᴛᴜɴᴀ ɢᴇçᴛi.",
+  "color": "yellow"
+ }
+}

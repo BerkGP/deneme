@@ -1,0 +1,180 @@
+{
+ "lore0": {
+  "text": "",
+  "italic": false,
+  "extra": [
+   {
+    "text": "• ",
+    "color": "#FF0000"
+   },
+   {
+    "text": "ᴘ",
+    "color": "#E5090D",
+    "bold": true,
+    "underlined": true
+   },
+   {
+    "text": "ᴀ",
+    "color": "#D80E13",
+    "bold": true,
+    "underlined": true
+   },
+   {
+    "text": "s",
+    "color": "#CB1219",
+    "bold": true,
+    "underlined": true
+   },
+   {
+    "text": "s",
+    "color": "#D80E13",
+    "bold": true,
+    "underlined": true
+   },
+   {
+    "text": "ɪ",
+    "color": "#E5090D",
+    "bold": true,
+    "underlined": true
+   },
+   {
+    "text": "ᴠ",
+    "color": "#F20506",
+    "bold": true,
+    "underlined": true
+   },
+   {
+    "text": "ᴇ",
+    "color": "#FF0000",
+    "bold": true,
+    "underlined": true
+   }
+  ]
+ },
+ "lore1": {
+  "text": "",
+  "italic": false,
+  "extra": [
+   {
+    "text": "[",
+    "color": "#873DFF"
+   },
+   {
+    "text": "✦",
+    "color": "#8042FF"
+   },
+   {
+    "text": "] ",
+    "color": "#7847FF"
+   },
+   {
+    "text": "ᴇ",
+    "color": "#6A50FE"
+   },
+   {
+    "text": "ᴋ",
+    "color": "#6255FE"
+   },
+   {
+    "text": "s",
+    "color": "#5B5AFE"
+   },
+   {
+    "text": "ᴋ",
+    "color": "#545FFE"
+   },
+   {
+    "text": "ᴀ",
+    "color": "#4C63FE"
+   },
+   {
+    "text": "ᴠ",
+    "color": "#4568FE"
+   },
+   {
+    "text": "ᴀ",
+    "color": "#3D6DFE"
+   },
+   {
+    "text": "ᴛ",
+    "color": "#3672FD"
+   },
+   {
+    "text": "ö",
+    "color": "#2F76FD"
+   },
+   {
+    "text": "ʀ ",
+    "color": "#277BFD"
+   },
+   {
+    "text": "ɢ",
+    "color": "#2087FD"
+   },
+   {
+    "text": "ü",
+    "color": "#208EFD"
+   },
+   {
+    "text": "ç",
+    "color": "#2195FD"
+   },
+   {
+    "text": "ʟ",
+    "color": "#219CFE"
+   },
+   {
+    "text": "ᴇ",
+    "color": "#21A3FE"
+   },
+   {
+    "text": "ɴ",
+    "color": "#21AAFE"
+   },
+   {
+    "text": "ᴅ",
+    "color": "#22B1FE"
+   },
+   {
+    "text": "i",
+    "color": "#22B8FE"
+   },
+   {
+    "text": "ʀ",
+    "color": "#22BFFE"
+   },
+   {
+    "text": "ᴍ",
+    "color": "#22C6FF"
+   },
+   {
+    "text": "ᴇ",
+    "color": "#23CDFF"
+   },
+   {
+    "text": "s",
+    "color": "#23D4FF"
+   },
+   {
+    "text": "i",
+    "color": "#23DBFF"
+   }
+  ]
+ },
+ "label": "ᴇᴋsᴋᴀᴠᴀᴛöʀ ᴄᴀɴɪ: ",
+ "label_color": "gray",
+ "num_color": "aqua",
+ "suffix": " / 3500",
+ "suffix_color": "gray",
+ "empty": "ᴛüᴋᴇɴᴅi",
+ "empty_color": "red",
+ "tool_zero": {
+  "rules": [],
+  "default_mining_speed": 1.0,
+  "damage_per_block": 2,
+  "can_destroy_blocks_in_creative": false
+ },
+ "custom_data_zero": {
+  "drill": "off"
+ }
+}

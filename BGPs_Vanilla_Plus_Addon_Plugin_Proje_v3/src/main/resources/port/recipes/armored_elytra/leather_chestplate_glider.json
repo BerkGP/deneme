@@ -1,0 +1,189 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:knowledge_book",
+  "base": "minecraft:leather_chestplate",
+  "addition": "minecraft:elytra",
+  "result": {
+    "id": "minecraft:leather_chestplate",
+    "count": 1,
+    "components": {
+      "minecraft:glider": {},
+      "minecraft:equippable": {
+        "slot": "chest",
+        "asset_id": "armored_elytra:leather",
+        "equip_sound": {
+          "sound_id": "armored_elytra:silent"
+        }
+      },
+      "minecraft:lore": [
+        {
+          "text": "",
+          "italic": false,
+          "extra": [
+            {
+              "text": "• ",
+              "color": "#FF0000"
+            },
+            {
+              "text": "ᴘ",
+              "color": "#E5090D",
+              "bold": true,
+              "underlined": true
+            },
+            {
+              "text": "ᴀ",
+              "color": "#D80E13",
+              "bold": true,
+              "underlined": true
+            },
+            {
+              "text": "s",
+              "color": "#CB1219",
+              "bold": true,
+              "underlined": true
+            },
+            {
+              "text": "s",
+              "color": "#D80E13",
+              "bold": true,
+              "underlined": true
+            },
+            {
+              "text": "ɪ",
+              "color": "#E5090D",
+              "bold": true,
+              "underlined": true
+            },
+            {
+              "text": "ᴠ",
+              "color": "#F20506",
+              "bold": true,
+              "underlined": true
+            },
+            {
+              "text": "ᴇ",
+              "color": "#FF0000",
+              "bold": true,
+              "underlined": true
+            }
+          ]
+        },
+        {
+          "text": "",
+          "italic": false,
+          "extra": [
+            {
+              "text": "[",
+              "color": "#873DFF"
+            },
+            {
+              "text": "✦",
+              "color": "#7E43FF"
+            },
+            {
+              "text": "] ",
+              "color": "#7648FF"
+            },
+            {
+              "text": "ᴇ",
+              "color": "#6553FE"
+            },
+            {
+              "text": "ʟ",
+              "color": "#5C59FE"
+            },
+            {
+              "text": "i",
+              "color": "#545FFE"
+            },
+            {
+              "text": "ᴛ",
+              "color": "#4B64FE"
+            },
+            {
+              "text": "ʀ",
+              "color": "#426AFE"
+            },
+            {
+              "text": "ᴀ ",
+              "color": "#3A6FFE"
+            },
+            {
+              "text": "ɢ",
+              "color": "#297AFD"
+            },
+            {
+              "text": "ü",
+              "color": "#2080FD"
+            },
+            {
+              "text": "ç",
+              "color": "#2088FD"
+            },
+            {
+              "text": "ʟ",
+              "color": "#2191FD"
+            },
+            {
+              "text": "ᴇ",
+              "color": "#2199FE"
+            },
+            {
+              "text": "ɴ",
+              "color": "#21A1FE"
+            },
+            {
+              "text": "ᴅ",
+              "color": "#21A9FE"
+            },
+            {
+              "text": "i",
+              "color": "#22B2FE"
+            },
+            {
+              "text": "ʀ",
+              "color": "#22BAFE"
+            },
+            {
+              "text": "ᴍ",
+              "color": "#22C2FE"
+            },
+            {
+              "text": "ᴇ",
+              "color": "#22CAFF"
+            },
+            {
+              "text": "s",
+              "color": "#23D3FF"
+            },
+            {
+              "text": "i",
+              "color": "#23DBFF"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "italic": false,
+          "extra": [
+            {
+              "text": "ᴇʟiᴛʀᴀ ᴄᴀɴɪ: ",
+              "color": "gray"
+            },
+            {
+              "text": "432",
+              "color": "aqua"
+            },
+            {
+              "text": " / 432",
+              "color": "gray"
+            }
+          ]
+        }
+      ],
+      "minecraft:custom_data": {
+        "ae_ed": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:netherite_upgrade_smithing_template",
+  "base": "minecraft:mace",
+  "addition": "minecraft:ghast_tear",
+  "result": {
+    "id": "minecraft:mace",
+    "count": 1,
+    "components": {
+      "minecraft:custom_data": {
+        "drill": "on",
+        "refill": "yes"
+      },
+      "minecraft:tool": {
+        "rules": [
+          {
+            "blocks": "#mace_drill:protected",
+            "speed": 1.0,
+            "correct_for_drops": false
+          },
+          {
+            "blocks": "#minecraft:incorrect_for_netherite_tool",
+            "correct_for_drops": false
+          },
+          {
+            "blocks": "#minecraft:mineable/pickaxe",
+            "speed": 9.0,
+            "correct_for_drops": true
+          },
+          {
+            "blocks": "#minecraft:mineable/shovel",
+            "speed": 9.0,
+            "correct_for_drops": true
+          }
+        ],
+        "default_mining_speed": 1.0,
+        "damage_per_block": 1,
+        "can_destroy_blocks_in_creative": false
+      }
+    }
+  }
+}
